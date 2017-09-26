@@ -1,5 +1,7 @@
 # tagline
 
+tagline is a go package to process struct data with tag.
+
 ## install
 
 ```
